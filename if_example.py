@@ -27,4 +27,3 @@ try:
              print(f"Dear {name}, unfortunately you are not allowed to drink")
 except ValueError:(
               print("Please give a valid age"))
-
